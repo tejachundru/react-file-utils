@@ -156,6 +156,6 @@
     }
   ],
   "dependencies": {
-    "react-dropzone": "11.3.4"
+    "react-dropzone": "11.7.1"
   }
 }
